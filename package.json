@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gbdkjs": "^1.0.5"
+    "gbdkjs": "^2.0.0"
   }
 }
